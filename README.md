@@ -1,5 +1,5 @@
-# vercel-flask
-用 vercel 部署 flask app 的尝试
+# Vercel-Flask
+用 Vercel 部署 Flask App 的尝试
 
 参考了 [How to deploy a Python/Flask App to Vercel - DEV Community](https://dev.to/andrewbaisden/how-to-deploy-a-python-flask-app-to-vercel-2o5k)
 
